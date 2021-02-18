@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics/ASNFLAKSNGDSJB
+  - course: PhD in Economics
     institution: University of California, Berkeley﻿﻿
     year: 2012
 
