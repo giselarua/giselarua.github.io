@@ -1,0 +1,24 @@
+Blogdown steps
+
+1. Make changes, save, and preview with
+blogdown:::serve_site()
+
+(By default, live preview renders everything to public folder, including drafts.)
+
+2. Stop live preview with 
+servr::daemon_stop("number, shown by blogdown:::serve_site()")
+
+3. Re-build website
+blogdown::build_site()
+
+4. Commit changes of the source code to source branch.
+
+git add -A
+git commit -m "update"
+git push origin source
+
+
+5. Publish the updated website to master using subtree push.
+
+git subtree push --prefix=public https://github.com/giselarua/giselarua.github.io.git master
+
