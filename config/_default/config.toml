@@ -14,7 +14,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2020 Gisela Rua"
+copyright = "&copy; {year} Gisela Rua. This is a personal website. Any results or conclusions in the research presented on this website are my own and do not necessarily represent the views of the Federal Reserve System."
 
 ############################
 ## Advanced options below ##

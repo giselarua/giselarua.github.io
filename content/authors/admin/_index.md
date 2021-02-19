@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- International Economics
+- International Trade
 - Macroeconomics
 - Economic History
 
@@ -73,3 +73,4 @@ Division of Research and Statistics Division \
 Industrial Output Section 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}
+

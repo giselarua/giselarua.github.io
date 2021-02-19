@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: Inflation Expectations in the U.S. in Fall 1933
+summary: With Andrew Jalil. Research in Economic History, vol. 33, 139-169.
+#tags:
+#- Deep Learning
+date: "2017"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
