@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | </title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>2 | </title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Gisela Rua. This is a personal website. Any results or conclusions in the research presented on this website are my own and do not necessarily represent the views of the Federal Reserve System.</copyright><lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <title>2</title>
+      <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Inflation Expectations in the U.S. in Fall 1933</title>
+      <link>/publication/reh2017/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/reh2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
