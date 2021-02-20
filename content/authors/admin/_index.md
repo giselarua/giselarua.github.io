@@ -1,6 +1,6 @@
 ---
 # Display name
-#title: Gisela Rua
+title: Gisela Rua
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,13 +33,13 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: at
-  icon_pack: fas
-  link: '/#contact'
-- icon: address-card
-  icon_pack: fas
-  link: '/#contact'
+#social:
+#- icon: at
+#  icon_pack: fas
+#  link: 'mailto:gisela.rua [at] frb.gov'
+#- icon: address-card
+#  icon_pack: fas
+#  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -67,10 +67,12 @@ email: ""
 highlight_name: false
 ---
 
-**Principal Economist** \
+ \
+{{< staticref "https://www.federalreserve.gov/econres/gisela-rua.htm" "newtab" >}}Principal Economist{{< /staticref >}} \
 Board of Governors of the Federal Reserve System \
 Division of Research and Statistics Division \
 Industrial Output Section 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "media/grua-cv.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="at" pack="fas" >}} gisela.rua [at] frb.gov
 
+{{< icon name="download" pack="fas" >}} {{< staticref "media/grua-cv.pdf" "newtab" >}}CV{{< /staticref >}}
