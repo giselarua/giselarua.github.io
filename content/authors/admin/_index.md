@@ -72,5 +72,5 @@ Board of Governors of the Federal Reserve System \
 Division of Research and Statistics Division \
 Industrial Output Section 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "media/grua-cv.pdf" "newtab" >}}CV{{< /staticref >}}
 
