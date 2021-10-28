@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gisela [dot] rua [at] frb [dot] gov"
+email = "gisela.rua [at] frb.gov"
 phone = ""
 
 # Address
@@ -97,7 +97,7 @@ address = {street = "Board of Governors of the Federal Reserve System, Mail Stop
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "38.8935", longitude = "-77.0459"}
 
 # Directions for visitors to locate you.
 directions = ""

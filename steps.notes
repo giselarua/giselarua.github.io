@@ -1,5 +1,8 @@
 Blogdown steps
 
+0. Install package if needed
+install.packages("blogdown")
+
 1. Make changes, save, and preview with
 blogdown:::serve_site()
 
@@ -21,4 +24,23 @@ git push origin source
 5. Publish the updated website to master using subtree push.
 
 git subtree push --prefix=public https://github.com/giselarua/giselarua.github.io.git master
+
+
+
+
+Update github token
+
+Create Personal Access Token on GitHub
+From your GitHub account, go to Settings => Developer Settings => Personal Access Token
+ => Generate New Token (Give your password) => Fillup the form => click Generate token 
+ => Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta
+
+current: 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
+
+Click on the Spotlight icon (magnifying glass) on the right side of the menu bar. 
+Type Keychain access then press the Enter key to launch the app 
+ => In Keychain Access, search for github.com
+ => Find the internet password entry for github.com
+ => Edit or delete the entry accordingly
+ => You are done
 
