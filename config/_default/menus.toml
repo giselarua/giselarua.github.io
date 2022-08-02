@@ -25,7 +25,7 @@
 
 #[[main]]
 #  name = "Research"
-# url = "#featured"
+#  url = "#featured"
 #  weight = 50
 
 [[main]]
