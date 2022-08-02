@@ -97,10 +97,10 @@ address = {street = "Board of Governors of the Federal Reserve System, Mail Stop
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.8935", longitude = "-77.0459"}
+#coordinates = {latitude = "38.8935", longitude = "-77.0459"}
 
 # Directions for visitors to locate you.
-directions = ""
+#directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
